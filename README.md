@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Web Design , MERN**
 
-- 📫 How to reach me **ch.hemanth963@gmail.com**
+- 📫 How to reach me **hemanth.chinthalacheruvu@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
